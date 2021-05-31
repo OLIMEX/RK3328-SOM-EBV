@@ -1,7 +1,7 @@
-# STMP1-A13-EVB
-Evaluation board for STMP15x-SOM and A13-SOM System on modules
+# RK3328-SOM-EVB
+Evaluation board for RK3328-SOM System on modules
 
-Product page: https://www.olimex.com/Products/SOM/STMP1/STMP1-A13--EVB/open-source-hardware
+Product page: https://www.olimex.com/Products/SOM/RK3328/RK3328-EVB/
 
 ## License
 * Hardware is released under CERN OHL v1.2 license
