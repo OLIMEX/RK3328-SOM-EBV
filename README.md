@@ -1,2 +1,10 @@
-# RK3328-SOM-EBV
-Evaluation board for RK3328-SOM System on module with Quad Core ARM Cortex-A53 64 bit SOC
+# STMP1-A13-EVB
+Evaluation board for STMP15x-SOM and A13-SOM System on modules
+
+Product page: https://www.olimex.com/Products/SOM/STMP1/STMP1-A13--EVB/open-source-hardware
+
+## License
+* Hardware is released under CERN OHL v1.2 license
+* Software is released under GPL3 License
+* Documentation is released under CC BY-SA 3.0
+

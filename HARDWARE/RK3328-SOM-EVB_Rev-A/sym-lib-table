@@ -1,0 +1,3 @@
+(sym_lib_table
+ (lib (name RK3328-SOM-EVB_Rev_A)(type Legacy)(uri ${KIPRJMOD}/RK3328-SOM-EVB_Rev_A.lib)(options "")(descr ""))
+)
